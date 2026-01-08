@@ -1,0 +1,11 @@
+[
+    {
+      "color": "0000FF",
+      "dopname": "(X2 АКЦИИ)",
+      "maxonline": 1000,
+      "name": "KARAGANDA",
+      "online": 1,
+      "host": "188.127.241.8",
+      "port": 1194
+    }
+  ]
